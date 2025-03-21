@@ -1,0 +1,28 @@
+{
+  "name": "expo-trusted-time",
+  "version": "1.0.0",
+  "description": "A React Native module for Expo that provides a reliable way to retrieve the current time using Google's Trusted Time API. This ensures accurate and tamper-proof time synchronization for your applications.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songecko/expo-trusted-time.git"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "trusted-time",
+    "time-sync",
+    "google-trusted-time",
+    "android",
+    "expo-module"
+  ],
+  "author": "@songecko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songecko/expo-trusted-time/issues"
+  },
+  "homepage": "https://github.com/songecko/expo-trusted-time#readme"
+}
